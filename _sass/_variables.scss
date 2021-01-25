@@ -22,7 +22,7 @@ $purple-color:        #B509AC !default;
 $light-purple-color:  lighten($purple-color, 25%);
 $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
-$yellow-color:        #efcc00 !default;
+$yellow-color:        #c5a906 !default;
 
 $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);
@@ -30,3 +30,8 @@ $grey-color-dark:     darken($grey-color, 25%);
 
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
+
+$eggplant-color: #495b9e;
+$eggplant-color-light:lighten($eggplant-color, 25%);
+$dark-red-color: #b65c71;
+$eggshell-color: #F0EBD6
