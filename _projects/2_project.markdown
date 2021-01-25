@@ -1,12 +1,24 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: NSF Hearables Challenge 2nd Place Winner
+description: Portable noise reduction app to assist people with hearing loss
+img: /assets/img/3.jpeg
 importance: 2
 ---
 
-Every project has a beautiful feature showcase page.
+This submission won the [2nd place](https://ubicomp.org/ubicomp2017/program/nsfhearableschallenge.html) at the [NSF Hearbles challenge](https://ninesights.ninesigma.com/servlet/hype/IMT?userAction=Browse&documentId=81e575b66f2412a2296a8204d15f0546&templateName=&documentTableId=1008809492095622127) conducted at Ubicomp 2017.  The submission was the top rated submission from a university.
+
+The demo starts from 2:40 in the video.
+
+<iframe width="720" height="480" src="https://www.dropbox.com/s/p1ie5mbd6a0qf3i/NSF_Hearables_Challenge_Submission.mp4?raw=1" frameborder="0" allowfullscreen></iframe>
+
+<div class="caption">
+    Video submission for the Challenge
+</div>
+
+The Noise Reduction has now been integrated with a Convolutional Neural Network VAD and a Dynamic Audio Range Compression and the source code for the apps for both Android and iOS are available [here](https://github.com/SIP-Lab/Integrated-Hearing-Aid-App).
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -74,4 +86,4 @@ Here's the code for the last row of images above:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-```
+``` -->
