@@ -14,7 +14,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Welcome! I am a Senior Research Engineer in the Standards and Mobility Innovation Lab at [Samsung Research America](https://www.sra.samsung.com). I specialize in Applied Digital Signal Processing and Machine Learning, with an emphasis on deployment of solutions for resource constrained hardware like smartphones. I earned my Ph.D. in Electrical Engineering from the [Erik Jonsson School of Engineering and Computer Science](https://engineering.utdallas.edu) at the [University of Texas at Dallas](https://www.utdallas.edu) under [Dr. Nasser Kehtarnavaz](https://personal.utdallas.edu/~kehtar/).
+Thanks for stopping by! I am a **Senior Research Engineer** in the **Standards and Mobility Innovation Lab** at [Samsung Research America](https://www.sra.samsung.com) in the **Intelligent Wi-Fi Group**. I specialize in **Applied Digital Signal Processing** and **Machine Learning**, with an emphasis on deployment of solutions for resource constrained hardware like smartphones.
+
+I earned my Ph.D. in Electrical Engineering from the [Erik Jonsson School of Engineering and Computer Science](https://engineering.utdallas.edu) at the [University of Texas at Dallas](https://www.utdallas.edu) under [Dr. Nasser Kehtarnavaz](https://personal.utdallas.edu/~kehtar/).
 
 **Research Interests:**
 

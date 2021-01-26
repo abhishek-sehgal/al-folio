@@ -162,7 +162,18 @@ a, table.table a {
 }
 
 .news table th {
-  color: var(--global-text-color);
+  a {
+    background-color: var(--global-theme-color);
+    display: inline-block;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: 0.5rem;
+    height: 1rem;
+    color: white;
+    &:hover {
+      text-decoration: none;
+    }
+  }
 }
 
 // Social (bottom)

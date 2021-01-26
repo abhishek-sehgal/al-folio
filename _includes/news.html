@@ -6,10 +6,12 @@
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
         <tr>
-          <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+          <th scope="row"><a class="badge">{{ item.date | date: "%b %d, %Y" }}</a></th>
           <td>
             {% if item.inline %}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+            {% elsif item.redirect %}
+              <a href="{{ item.redirect }}">{{ item.title }}</a>
             {% else %}
               <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
             {% endif %}
