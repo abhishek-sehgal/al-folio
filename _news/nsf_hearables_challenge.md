@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NSF Hearables Challenge, 2nd Place
+title: NSF and NASA Hearables Challenge, 2nd Place
 date: 2017-09-15 07:59:00-0400
 inline: false
 redirect: /projects/nsf_hearables_challenge

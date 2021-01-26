@@ -57,7 +57,7 @@ wikidata_id: # your wikidata id
 stack_overflow: 4573275/abhishek-sehgal # your stack overflow
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach me is through LinkedIn
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -66,8 +66,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Work in progress  # your blog must have a name for it to show up in the nav bar
+blog_description: Do I even blog?
 permalink: /blog/:year/:title/
 
 # Pagination
