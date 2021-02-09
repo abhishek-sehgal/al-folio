@@ -6,12 +6,23 @@ img: /assets/img/12.jpg
 importance: 1
 ---
 
-The code and user's guide for the project is available [here](https://github.com/SIP-Lab/CNN-VAD).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SIP-Lab&repo=CNN-VAD&show_icons=true)](https://github.com/SIP-Lab/CNN-VAD)
 
-<iframe width="720" height="480" src="https://www.dropbox.com/s/j82zvcud7665sq0/CNN-VAD.mp4?raw=1" frameborder="0" allowfullscreen></iframe>
+What is a Voice Activity Detector?
+------
+
+Voice Activity Detectors (VADs) are an integral module in speech processing projects. They are crucial in identifying portions of speech in an audio segment. The output from a VAD can help a speech recognition module identify which audio segments it needs to run on, they are used in VoIP and Video Calls to conserve bandwidth when there is no speech and they are used in adaptive noise reduction for estimating noise statistics during absence of speech.
+
+The CNN VAD is better explained in the accompanying video.
+
+<!-- The code and user's guide for the project is available [here](https://github.com/SIP-Lab/CNN-VAD). -->
+
+<video width="100%" height="100%" controls>
+    <source src="https://www.dropbox.com/s/j82zvcud7665sq0/CNN-VAD.mp4?raw=1" type="video/mp4">
+</video>
 
 <div class="caption">
-    Video explaining and demonstrating the VAD
+    Video explaining and demonstrating the CNN VAD
 </div>
 
 <!-- Every project has a beautiful feature showcase page.

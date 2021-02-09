@@ -11,7 +11,9 @@
     {% endif %}
   {% endif %}
   {% if entry.award %}
-    <abbr class="award badge">{{entry.award}}</abbr>
+    <a href="{{entry.award_link | ''}}" target="_blank" rel="noopener noreferrer">
+      <abbr class="award badge">{{entry.award}}</abbr>
+    </a>
   {% endif %}
   </div>
 

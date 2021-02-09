@@ -10,7 +10,9 @@ This submission won the [2nd place](https://ubicomp.org/ubicomp2017/program/nsfh
 
 The demo starts from 2:40 in the video.
 
-<iframe width="720" height="480" src="https://www.dropbox.com/s/p1ie5mbd6a0qf3i/NSF_Hearables_Challenge_Submission.mp4?raw=1" frameborder="0" allowfullscreen></iframe>
+<video width="100%" height="100%" controls>
+    <source src="https://www.dropbox.com/s/p1ie5mbd6a0qf3i/NSF_Hearables_Challenge_Submission.mp4?raw=1" type="video/mp4">
+</video>
 
 <div class="caption">
     Video submission for the Challenge
